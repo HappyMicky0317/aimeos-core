@@ -1,0 +1,775 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# 
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Bence Gazder <bencegazder@gmail.com>, 2018
+# Patrik Szakos <szakos0208@gmail.com>, 2021
+# Péter Kozma <kopegrafika@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: aimeos-core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-09 09:14+0200\n"
+"PO-Revision-Date: 2015-07-09 20:34+0000\n"
+"Last-Translator: Péter Kozma <kopegrafika@gmail.com>, 2016\n"
+"Language-Team: Hungarian (http://www.transifex.com/aimeos/aimeos-core/language/hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "AD"
+msgstr "Andorra"
+
+msgid "AE"
+msgstr "Egyesült Arab Emírségek"
+
+msgid "AF"
+msgstr "Afganisztán"
+
+msgid "AG"
+msgstr "Antigua és Barbuda"
+
+msgid "AI"
+msgstr "Anguilla"
+
+msgid "AL"
+msgstr "Albánia"
+
+msgid "AM"
+msgstr "Örményország"
+
+msgid "AO"
+msgstr "Angola"
+
+msgid "AQ"
+msgstr "Antarktisz"
+
+msgid "AR"
+msgstr "Argentína"
+
+msgid "AS"
+msgstr "Amerikai Szamoa"
+
+msgid "AT"
+msgstr "Ausztria"
+
+msgid "AU"
+msgstr "Ausztrália"
+
+msgid "AW"
+msgstr "Aruba"
+
+msgid "AX"
+msgstr "Aland-szigetek"
+
+msgid "AZ"
+msgstr "Azerbajdzsán"
+
+msgid "BA"
+msgstr "Bosznia és Hercegovina"
+
+msgid "BB"
+msgstr "Barbados"
+
+msgid "BD"
+msgstr "Banglades"
+
+msgid "BE"
+msgstr "Belgium"
+
+msgid "BF"
+msgstr "Burkina Faso"
+
+msgid "BG"
+msgstr "Bulgária"
+
+msgid "BH"
+msgstr "Bahrein"
+
+msgid "BI"
+msgstr "Burundi"
+
+msgid "BJ"
+msgstr "Benin"
+
+msgid "BL"
+msgstr "Saint-Barthélemy"
+
+msgid "BM"
+msgstr "Bermuda"
+
+msgid "BN"
+msgstr "Brunei"
+
+msgid "BO"
+msgstr "Bolívia"
+
+msgid "BQ"
+msgstr "Karibi Hollandia"
+
+msgid "BR"
+msgstr "Brazília"
+
+msgid "BS"
+msgstr "Bahamák"
+
+msgid "BT"
+msgstr "Bhután"
+
+msgid "BV"
+msgstr "Bouvet-sziget"
+
+msgid "BW"
+msgstr "Botswana"
+
+msgid "BY"
+msgstr "Fehéroroszország"
+
+msgid "BZ"
+msgstr "Belize"
+
+msgid "CA"
+msgstr "Kanada"
+
+msgid "CC"
+msgstr "Kókusz (Keeling)-szigetek"
+
+msgid "CD"
+msgstr "Kongói Demokratikus Köztársaság"
+
+msgid "CF"
+msgstr "Közép-Afrikai Köztársaság"
+
+msgid "CG"
+msgstr "Kongó"
+
+msgid "CH"
+msgstr "Svájc"
+
+msgid "CI"
+msgstr "Elefántcsontpart"
+
+msgid "CK"
+msgstr "Cook-szigetek"
+
+msgid "CL"
+msgstr "Chile"
+
+msgid "CM"
+msgstr "Kamerun"
+
+msgid "CN"
+msgstr "Kína"
+
+msgid "CO"
+msgstr "Kolumbia"
+
+msgid "CR"
+msgstr "Costa Rica"
+
+msgid "CU"
+msgstr "Kuba"
+
+msgid "CV"
+msgstr "Zöld-foki Köztársaság"
+
+msgid "CW"
+msgstr "Curaçao"
+
+msgid "CX"
+msgstr "Karácsony-sziget"
+
+msgid "CY"
+msgstr "Ciprus"
+
+msgid "CZ"
+msgstr "Cseh Köztársaság"
+
+msgid "DE"
+msgstr "Németország"
+
+msgid "DJ"
+msgstr "Dzsibuti"
+
+msgid "DK"
+msgstr "Dánia"
+
+msgid "DM"
+msgstr "Dominikai Közösség"
+
+msgid "DO"
+msgstr "Dominikai Köztársaság"
+
+msgid "DZ"
+msgstr "Algéria"
+
+msgid "EC"
+msgstr "Ecuador"
+
+msgid "EE"
+msgstr "Észtország"
+
+msgid "EG"
+msgstr "Egyiptom"
+
+msgid "EH"
+msgstr "Nyugat-Szahara"
+
+msgid "ER"
+msgstr "Eritrea"
+
+msgid "ES"
+msgstr "Spanyolország"
+
+msgid "ET"
+msgstr "Etiópia"
+
+msgid "FI"
+msgstr "Finnország"
+
+msgid "FJ"
+msgstr "Fidzsi-szigetek"
+
+msgid "FK"
+msgstr "Falkland-szigetek"
+
+msgid "FM"
+msgstr "Mikronéziai"
+
+msgid "FO"
+msgstr "Feröer"
+
+msgid "FR"
+msgstr "Franciaország"
+
+msgid "GA"
+msgstr "Gabon"
+
+msgid "GB"
+msgstr "Nagy-Britannia"
+
+msgid "GD"
+msgstr "Grenada"
+
+msgid "GE"
+msgstr "Grúzia"
+
+msgid "GF"
+msgstr "Francia Guyana"
+
+msgid "GG"
+msgstr "Guernsey"
+
+msgid "GH"
+msgstr "Ghána"
+
+msgid "GI"
+msgstr "Gibraltár"
+
+msgid "GL"
+msgstr "Grönland"
+
+msgid "GM"
+msgstr "Gambia"
+
+msgid "GN"
+msgstr "Guinea"
+
+msgid "GP"
+msgstr "Guadeloupe"
+
+msgid "GQ"
+msgstr "Egyenlítői-Guinea"
+
+msgid "GR"
+msgstr "Görögország"
+
+msgid "GS"
+msgstr "Déli-Georgia és Déli-Sandwich-szigetek"
+
+msgid "GT"
+msgstr "Guatemala"
+
+msgid "GU"
+msgstr "Guam"
+
+msgid "GW"
+msgstr "Bissau-Guinea"
+
+msgid "GY"
+msgstr "Guyana"
+
+msgid "HK"
+msgstr "Hong Kong"
+
+msgid "HM"
+msgstr "Heard-sziget és McDonald-szigetek"
+
+msgid "HN"
+msgstr "Honduras"
+
+msgid "HR"
+msgstr "Horvátország"
+
+msgid "HT"
+msgstr "Haiti"
+
+msgid "HU"
+msgstr "Magyarország"
+
+msgid "ID"
+msgstr "Indonézia"
+
+msgid "IE"
+msgstr "Írország"
+
+msgid "IL"
+msgstr "Izrael"
+
+msgid "IM"
+msgstr "Man"
+
+msgid "IN"
+msgstr "India"
+
+msgid "IO"
+msgstr "Brit Indiai-óceáni Terület"
+
+msgid "IQ"
+msgstr "Irak"
+
+msgid "IR"
+msgstr "Irán"
+
+msgid "IS"
+msgstr "Izland"
+
+msgid "IT"
+msgstr "Olaszország"
+
+msgid "JE"
+msgstr "Jersey"
+
+msgid "JM"
+msgstr "Jamaica"
+
+msgid "JO"
+msgstr "Jordánia"
+
+msgid "JP"
+msgstr "Japán"
+
+msgid "KE"
+msgstr "Kenya"
+
+msgid "KG"
+msgstr "Kirgizisztán"
+
+msgid "KH"
+msgstr "Kambodzsa"
+
+msgid "KI"
+msgstr "Kiribati"
+
+msgid "KM"
+msgstr "Comore-szigetek"
+
+msgid "KN"
+msgstr "Saint Kitts és Nevis"
+
+msgid "KP"
+msgstr "Észak-Korea"
+
+msgid "KR"
+msgstr "Dél-Korea"
+
+msgid "KW"
+msgstr "Kuvait"
+
+msgid "KY"
+msgstr "Kajmán-szigetek"
+
+msgid "KZ"
+msgstr "Kazahsztán"
+
+msgid "LA"
+msgstr "Laosz"
+
+msgid "LB"
+msgstr "Libanon"
+
+msgid "LC"
+msgstr "Saint Lucia"
+
+msgid "LI"
+msgstr "Liechtenstein"
+
+msgid "LK"
+msgstr "Srí Lanka"
+
+msgid "LR"
+msgstr "Libéria"
+
+msgid "LS"
+msgstr "Lesotho"
+
+msgid "LT"
+msgstr "Litvánia"
+
+msgid "LU"
+msgstr "Luxemburg"
+
+msgid "LV"
+msgstr "Lettország"
+
+msgid "LY"
+msgstr "Líbia"
+
+msgid "MA"
+msgstr "Marokkó"
+
+msgid "MC"
+msgstr "Monaco"
+
+msgid "MD"
+msgstr "Moldova"
+
+msgid "ME"
+msgstr "Montenegró"
+
+msgid "MF"
+msgstr "Szent Márton-sziget"
+
+msgid "MG"
+msgstr "Madagaszkár"
+
+msgid "MH"
+msgstr "Marshall-szigetek"
+
+msgid "MK"
+msgstr "Macedónia"
+
+msgid "ML"
+msgstr "Mali"
+
+msgid "MM"
+msgstr "Mianmar"
+
+msgid "MN"
+msgstr "Mongólia"
+
+msgid "MO"
+msgstr "Makaó"
+
+msgid "MP"
+msgstr "Északi-Mariana-szigetek"
+
+msgid "MQ"
+msgstr "Martinique"
+
+msgid "MR"
+msgstr "Mauritánia"
+
+msgid "MS"
+msgstr "Montserrat"
+
+msgid "MT"
+msgstr "Málta"
+
+msgid "MU"
+msgstr "Mauritius"
+
+msgid "MV"
+msgstr "Maldív-szigetek"
+
+msgid "MW"
+msgstr "Malawi"
+
+msgid "MX"
+msgstr "Mexikó"
+
+msgid "MY"
+msgstr "Malajzia"
+
+msgid "MZ"
+msgstr "Mozambik"
+
+msgid "NA"
+msgstr "Namíbia"
+
+msgid "NC"
+msgstr "Új-Kaledónia"
+
+msgid "NE"
+msgstr "Niger"
+
+msgid "NF"
+msgstr "Norfolk-sziget"
+
+msgid "NG"
+msgstr "Nigéria"
+
+msgid "NI"
+msgstr "Nicaragua"
+
+msgid "NL"
+msgstr "Hollandia"
+
+msgid "NO"
+msgstr "Norvégia"
+
+msgid "NP"
+msgstr "Nepál"
+
+msgid "NR"
+msgstr "Nauru"
+
+msgid "NU"
+msgstr "Niue"
+
+msgid "NZ"
+msgstr "Új-Zéland"
+
+msgid "OM"
+msgstr "Omán"
+
+msgid "PA"
+msgstr "Panama"
+
+msgid "PE"
+msgstr "Peru"
+
+msgid "PF"
+msgstr "Francia Polinézia"
+
+msgid "PG"
+msgstr "Pápua Új-Guinea"
+
+msgid "PH"
+msgstr "Fülöp-szigetek"
+
+msgid "PK"
+msgstr "Pakisztán"
+
+msgid "PL"
+msgstr "Lengyelország"
+
+msgid "PM"
+msgstr "Saint-Pierre és Miquelon"
+
+msgid "PN"
+msgstr "Pitcairn-szigetek"
+
+msgid "PR"
+msgstr "Puerto Rico"
+
+msgid "PS"
+msgstr "Palesztin Állam"
+
+msgid "PT"
+msgstr "Portugália"
+
+msgid "PW"
+msgstr "Palau"
+
+msgid "PY"
+msgstr "Paraguay"
+
+msgid "QA"
+msgstr "Katar"
+
+msgid "RE"
+msgstr "Réunion"
+
+msgid "RO"
+msgstr "Románia"
+
+msgid "RS"
+msgstr "Szerbia"
+
+msgid "RU"
+msgstr "Oroszország"
+
+msgid "RW"
+msgstr "Ruanda"
+
+msgid "SA"
+msgstr "Szaúd-Arábia"
+
+msgid "SB"
+msgstr "Salamon-szigetek"
+
+msgid "SC"
+msgstr "Seychelle-szigetek"
+
+msgid "SD"
+msgstr "Szudán"
+
+msgid "SE"
+msgstr "Svédország"
+
+msgid "SG"
+msgstr "Szingapúr"
+
+msgid "SH"
+msgstr "Szent Ilona, Ascension és Tristan da Cunha"
+
+msgid "SI"
+msgstr "Szlovénia"
+
+msgid "SJ"
+msgstr "Svalbard and Jan Mayen"
+
+msgid "SK"
+msgstr "Szlovákia"
+
+msgid "SL"
+msgstr "Sierra Leone"
+
+msgid "SM"
+msgstr "San Marino"
+
+msgid "SN"
+msgstr "Szenegál"
+
+msgid "SO"
+msgstr "Szomália"
+
+msgid "SR"
+msgstr "Suriname"
+
+msgid "SS"
+msgstr "Dél-Szudán"
+
+msgid "ST"
+msgstr "São Tomé és Príncipe"
+
+msgid "SV"
+msgstr "Salvador"
+
+msgid "SX"
+msgstr "Sint Maarten"
+
+msgid "SY"
+msgstr "Szíria"
+
+msgid "SZ"
+msgstr "Svájc"
+
+msgid "TC"
+msgstr "Turks- és Caicos-szigetek"
+
+msgid "TD"
+msgstr "Csád"
+
+msgid "TF"
+msgstr "Francia déli és antarktiszi területek"
+
+msgid "TG"
+msgstr "Togo"
+
+msgid "TH"
+msgstr "Thaiföld"
+
+msgid "TJ"
+msgstr "Tádzsikisztán"
+
+msgid "TK"
+msgstr "Tokelau-szigetek"
+
+msgid "TL"
+msgstr "Kelet-Timor"
+
+msgid "TM"
+msgstr "Türkmenisztán"
+
+msgid "TN"
+msgstr "Tunézia"
+
+msgid "TO"
+msgstr "Tonga"
+
+msgid "TR"
+msgstr "Törökország"
+
+msgid "TT"
+msgstr "Trinidad és Tobago"
+
+msgid "TV"
+msgstr "Tuvalu"
+
+msgid "TW"
+msgstr "Taiwan"
+
+msgid "TZ"
+msgstr "Tanzánia"
+
+msgid "UA"
+msgstr "Ukrajna"
+
+msgid "UG"
+msgstr "Uganda"
+
+msgid "UM"
+msgstr "Amerikai Egyesült Államok lakatlan külbirtokai"
+
+msgid "US"
+msgstr "Amerikai Egyesült Államok"
+
+msgid "UY"
+msgstr "Uruguay"
+
+msgid "UZ"
+msgstr "Üzbegisztán"
+
+msgid "VA"
+msgstr "Vatikán"
+
+msgid "VC"
+msgstr "Saint Vincent és a Grenadine-szigetek"
+
+msgid "VE"
+msgstr "Venezuela"
+
+msgid "VG"
+msgstr "Brit Virgin-szigetek"
+
+msgid "VI"
+msgstr "Amerikai Virgin-szigetek"
+
+msgid "VN"
+msgstr "Vietnám"
+
+msgid "VU"
+msgstr "Vanuatu"
+
+msgid "WF"
+msgstr "Wallis és Futuna"
+
+msgid "WS"
+msgstr "Szamoa"
+
+msgid "XK"
+msgstr "Koszovói"
+
+msgid "YE"
+msgstr "Jemen"
+
+msgid "YT"
+msgstr "Mayotte"
+
+msgid "ZA"
+msgstr "Dél-afrikai Köztársaság"
+
+msgid "ZM"
+msgstr "Zambia"
+
+msgid "ZW"
+msgstr "Zimbabwe"

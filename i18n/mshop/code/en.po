@@ -1,0 +1,203 @@
+# English translations for codes.
+# This file is distributed under the same license as the aimeos-core package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: aimeos-core 2013-07\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-09 09:14+0200\n"
+"PO-Revision-Date: 2013-07-28 13:03+0100\n"
+"Last-Translator: Aimeos <aimeos@aimeos.org>\n"
+"Language-Team: Aimeos (aimeos@aimeos.org)\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Address plugin error: Delivery address not available
+msgid "address.delivery.available.none"
+msgstr "The delivery address is missing"
+
+#. Address plugin error: Delivery address not allowed
+msgid "address.delivery.available.notallowed"
+msgstr "A delivery address is not allowed"
+
+#. Address plugin error: Payment address not available
+msgid "address.payment.available.none"
+msgstr "The billing address is missing"
+
+#. Address plugin error: Payment address not allowed
+msgid "address.payment.available.notallowed"
+msgstr "A billing address is not allowed"
+
+#. Address salutation
+msgid "company"
+msgstr "Company"
+
+#. Address salutation
+msgid "miss"
+msgstr "Miss"
+
+#. Address salutation
+msgid "mr"
+msgstr "Mr"
+
+#. Address salutation
+msgid "mrs"
+msgstr "Mrs"
+
+#. Address salutation
+msgid "ms"
+msgstr "Ms"
+
+#. Order type value
+msgid "order:phone"
+msgstr "telephone"
+
+#. Order type value
+msgid "order:repeat"
+msgstr "repeated"
+
+#. Order type value
+msgid "order:web"
+msgstr "internet"
+
+#. Payment status value
+msgid "pay:-1"
+msgstr "---"
+
+#. Payment status value
+msgid "pay:0"
+msgstr "deleted"
+
+#. Payment status value
+msgid "pay:1"
+msgstr "canceled"
+
+#. Payment status value
+msgid "pay:2"
+msgstr "refused"
+
+#. Payment status value
+msgid "pay:3"
+msgstr "refunded"
+
+#. Payment status value
+msgid "pay:4"
+msgstr "pending"
+
+#. Payment status value
+msgid "pay:5"
+msgstr "authorized"
+
+#. Payment status value
+msgid "pay:6"
+msgstr "received"
+
+#. Payment status value
+msgid "pay:7"
+msgstr "transferred"
+
+#. ProductGone plugin error: Product doesn't exists
+msgid "product.gone.notexist"
+msgstr "Sorry, at least one product doesn't exist any more. Please remove it from your basket to continue"
+
+#. ProductGone plugin error: Product status disabled
+msgid "product.gone.status"
+msgstr "Sorry, at least one product was disabled. Please remove it from your basket to continue"
+
+#. ProductGone plugin error: Product out of timeframe
+msgid "product.gone.timeframe"
+msgstr "Sorry, at least one product is not available any more. Please remove it from your basket to continue"
+
+#. ProductPrice plugin error: Product price changed
+msgid "product.price.changed"
+msgstr "The price of at least one product has changed in the meantime and it was updated automatically"
+
+#. ProductStock plugin error: Product out of stock
+msgid "product.stock.notenough"
+msgstr "Sorry, at least one product is out of stock. Please remove it from your basket to continue"
+
+#. Subscription reason code
+msgid "reason:-1"
+msgstr "payment"
+
+#. Subscription reason code
+msgid "reason:0"
+msgstr "expired"
+
+#. Subscription reason code
+msgid "reason:1"
+msgstr "cancelled"
+
+#. Service plugin error: Delivery service not available
+msgid "service.delivery.available.none"
+msgstr "The delivery option is missing"
+
+#. Service plugin error: Delivery service not allowed
+msgid "service.delivery.available.notallowed"
+msgstr "A delivery option is not allowed"
+
+#. Service plugin error: Payment service not available
+msgid "service.payment.available.none"
+msgstr "The payment option is missing"
+
+#. Service plugin error: Payment service not allowed
+msgid "service.payment.available.notallowed"
+msgstr "A payment option is not allowed"
+
+#. Delivery status value
+msgid "stat:-1"
+msgstr "---"
+
+#. Delivery status value
+msgid "stat:0"
+msgstr "deleted"
+
+#. Delivery status value
+msgid "stat:1"
+msgstr "pending"
+
+#. Delivery status value
+msgid "stat:2"
+msgstr "in progress"
+
+#. Delivery status value
+msgid "stat:3"
+msgstr "dispatched"
+
+#. Delivery status value
+msgid "stat:4"
+msgstr "delivered"
+
+#. Delivery status value
+msgid "stat:5"
+msgstr "lost"
+
+#. Delivery status value
+msgid "stat:6"
+msgstr "refused"
+
+#. Delivery status value
+msgid "stat:7"
+msgstr "returned"
+
+#. Item status
+msgid "status:-1"
+msgstr "Review"
+
+#. Item status
+msgid "status:-2"
+msgstr "Archived"
+
+#. Item status
+msgid "status:0"
+msgstr "Disabled"
+
+#. Item status
+msgid "status:1"
+msgstr "Enabled"
+
+#. Item status
+msgid "status:2"
+msgstr "Hidden"

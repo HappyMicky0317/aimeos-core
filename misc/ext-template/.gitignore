@@ -1,0 +1,7 @@
+coverage/
+*.junit.xml
+*.log
+
+.buildpath
+.project
+.settings/

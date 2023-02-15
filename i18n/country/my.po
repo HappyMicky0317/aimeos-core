@@ -1,0 +1,773 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# 
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Shoon Lae Won <wonshoonlae@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: aimeos-core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-09 09:14+0200\n"
+"PO-Revision-Date: 2015-07-09 20:34+0000\n"
+"Last-Translator: Shoon Lae Won <wonshoonlae@gmail.com>, 2018\n"
+"Language-Team: Burmese (http://www.transifex.com/aimeos/aimeos-core/language/my/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: my\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "AD"
+msgstr ""
+
+msgid "AE"
+msgstr "အာရပ်စော်ဘွားများပြည်ထောင်စု"
+
+msgid "AF"
+msgstr "အာဖဂန်နစ္စတန်"
+
+msgid "AG"
+msgstr ""
+
+msgid "AI"
+msgstr ""
+
+msgid "AL"
+msgstr "အယ်လ်ဘေးနီးယား"
+
+msgid "AM"
+msgstr "အာမေးနီးယား"
+
+msgid "AO"
+msgstr "အန်ဂိုလာ"
+
+msgid "AQ"
+msgstr "အန္တာတိက"
+
+msgid "AR"
+msgstr "အာဂျင်တီးနား"
+
+msgid "AS"
+msgstr ""
+
+msgid "AT"
+msgstr "ဩစတြီးယား"
+
+msgid "AU"
+msgstr "ဩစတြေးလျ"
+
+msgid "AW"
+msgstr ""
+
+msgid "AX"
+msgstr ""
+
+msgid "AZ"
+msgstr ""
+
+msgid "BA"
+msgstr ""
+
+msgid "BB"
+msgstr ""
+
+msgid "BD"
+msgstr ""
+
+msgid "BE"
+msgstr "ဘယ်လ်ဂျီယမ်"
+
+msgid "BF"
+msgstr ""
+
+msgid "BG"
+msgstr ""
+
+msgid "BH"
+msgstr ""
+
+msgid "BI"
+msgstr ""
+
+msgid "BJ"
+msgstr ""
+
+msgid "BL"
+msgstr ""
+
+msgid "BM"
+msgstr ""
+
+msgid "BN"
+msgstr "ဘရူနိုင်းဒါရူဆလမ်"
+
+msgid "BO"
+msgstr ""
+
+msgid "BQ"
+msgstr ""
+
+msgid "BR"
+msgstr "ဘရာဇီး"
+
+msgid "BS"
+msgstr ""
+
+msgid "BT"
+msgstr "ဘူတန်"
+
+msgid "BV"
+msgstr ""
+
+msgid "BW"
+msgstr ""
+
+msgid "BY"
+msgstr ""
+
+msgid "BZ"
+msgstr ""
+
+msgid "CA"
+msgstr "ကနေဒါ"
+
+msgid "CC"
+msgstr ""
+
+msgid "CD"
+msgstr ""
+
+msgid "CF"
+msgstr ""
+
+msgid "CG"
+msgstr "ကွန်ဂို"
+
+msgid "CH"
+msgstr "ဆွစ်ဇာလန်"
+
+msgid "CI"
+msgstr ""
+
+msgid "CK"
+msgstr ""
+
+msgid "CL"
+msgstr "ချီလီ"
+
+msgid "CM"
+msgstr ""
+
+msgid "CN"
+msgstr "တရုတ်"
+
+msgid "CO"
+msgstr ""
+
+msgid "CR"
+msgstr ""
+
+msgid "CU"
+msgstr ""
+
+msgid "CV"
+msgstr ""
+
+msgid "CW"
+msgstr ""
+
+msgid "CX"
+msgstr ""
+
+msgid "CY"
+msgstr ""
+
+msgid "CZ"
+msgstr ""
+
+msgid "DE"
+msgstr "ဂျာမနီ"
+
+msgid "DJ"
+msgstr ""
+
+msgid "DK"
+msgstr "ဒိန်းမတ်"
+
+msgid "DM"
+msgstr ""
+
+msgid "DO"
+msgstr ""
+
+msgid "DZ"
+msgstr ""
+
+msgid "EC"
+msgstr "အီကွေဒေါ"
+
+msgid "EE"
+msgstr ""
+
+msgid "EG"
+msgstr "အီဂျစ်"
+
+msgid "EH"
+msgstr ""
+
+msgid "ER"
+msgstr ""
+
+msgid "ES"
+msgstr "စပိန်"
+
+msgid "ET"
+msgstr ""
+
+msgid "FI"
+msgstr "ဖင်လန်"
+
+msgid "FJ"
+msgstr ""
+
+msgid "FK"
+msgstr ""
+
+msgid "FM"
+msgstr ""
+
+msgid "FO"
+msgstr ""
+
+msgid "FR"
+msgstr "ပြင်သစ်"
+
+msgid "GA"
+msgstr ""
+
+msgid "GB"
+msgstr ""
+
+msgid "GD"
+msgstr ""
+
+msgid "GE"
+msgstr ""
+
+msgid "GF"
+msgstr ""
+
+msgid "GG"
+msgstr ""
+
+msgid "GH"
+msgstr ""
+
+msgid "GI"
+msgstr ""
+
+msgid "GL"
+msgstr ""
+
+msgid "GM"
+msgstr ""
+
+msgid "GN"
+msgstr ""
+
+msgid "GP"
+msgstr ""
+
+msgid "GQ"
+msgstr ""
+
+msgid "GR"
+msgstr "ဂရိ"
+
+msgid "GS"
+msgstr ""
+
+msgid "GT"
+msgstr ""
+
+msgid "GU"
+msgstr ""
+
+msgid "GW"
+msgstr ""
+
+msgid "GY"
+msgstr ""
+
+msgid "HK"
+msgstr "ဟောင်ကောင်"
+
+msgid "HM"
+msgstr ""
+
+msgid "HN"
+msgstr ""
+
+msgid "HR"
+msgstr ""
+
+msgid "HT"
+msgstr ""
+
+msgid "HU"
+msgstr ""
+
+msgid "ID"
+msgstr "အင်ဒိုနီးရှား"
+
+msgid "IE"
+msgstr "အိုင်ယာလန်"
+
+msgid "IL"
+msgstr "အစ္စရေး"
+
+msgid "IM"
+msgstr ""
+
+msgid "IN"
+msgstr "အိန္ဒိယ"
+
+msgid "IO"
+msgstr ""
+
+msgid "IQ"
+msgstr "အီရတ်"
+
+msgid "IR"
+msgstr ""
+
+msgid "IS"
+msgstr ""
+
+msgid "IT"
+msgstr "အီတလီ"
+
+msgid "JE"
+msgstr ""
+
+msgid "JM"
+msgstr "ဂျမေကာ"
+
+msgid "JO"
+msgstr "ဂျော်ဒန်"
+
+msgid "JP"
+msgstr "ဂျပန်"
+
+msgid "KE"
+msgstr ""
+
+msgid "KG"
+msgstr ""
+
+msgid "KH"
+msgstr "ကမ္ဘောဒီးယား"
+
+msgid "KI"
+msgstr ""
+
+msgid "KM"
+msgstr ""
+
+msgid "KN"
+msgstr ""
+
+msgid "KP"
+msgstr ""
+
+msgid "KR"
+msgstr "ကိုရီးယား"
+
+msgid "KW"
+msgstr "ကူဝိတ်"
+
+msgid "KY"
+msgstr ""
+
+msgid "KZ"
+msgstr ""
+
+msgid "LA"
+msgstr ""
+
+msgid "LB"
+msgstr "လက်ဘနွန်"
+
+msgid "LC"
+msgstr ""
+
+msgid "LI"
+msgstr ""
+
+msgid "LK"
+msgstr ""
+
+msgid "LR"
+msgstr ""
+
+msgid "LS"
+msgstr ""
+
+msgid "LT"
+msgstr ""
+
+msgid "LU"
+msgstr "လူဇင်ဘတ်"
+
+msgid "LV"
+msgstr ""
+
+msgid "LY"
+msgstr ""
+
+msgid "MA"
+msgstr ""
+
+msgid "MC"
+msgstr ""
+
+msgid "MD"
+msgstr ""
+
+msgid "ME"
+msgstr ""
+
+msgid "MF"
+msgstr ""
+
+msgid "MG"
+msgstr ""
+
+msgid "MH"
+msgstr ""
+
+msgid "MK"
+msgstr ""
+
+msgid "ML"
+msgstr ""
+
+msgid "MM"
+msgstr "မြန်မာ"
+
+msgid "MN"
+msgstr ""
+
+msgid "MO"
+msgstr "မကာအို"
+
+msgid "MP"
+msgstr ""
+
+msgid "MQ"
+msgstr ""
+
+msgid "MR"
+msgstr ""
+
+msgid "MS"
+msgstr ""
+
+msgid "MT"
+msgstr ""
+
+msgid "MU"
+msgstr ""
+
+msgid "MV"
+msgstr ""
+
+msgid "MW"
+msgstr ""
+
+msgid "MX"
+msgstr ""
+
+msgid "MY"
+msgstr "မလေးရှား"
+
+msgid "MZ"
+msgstr ""
+
+msgid "NA"
+msgstr ""
+
+msgid "NC"
+msgstr ""
+
+msgid "NE"
+msgstr ""
+
+msgid "NF"
+msgstr ""
+
+msgid "NG"
+msgstr ""
+
+msgid "NI"
+msgstr ""
+
+msgid "NL"
+msgstr "နယ်သာလန်"
+
+msgid "NO"
+msgstr "နော်ဝေး"
+
+msgid "NP"
+msgstr "နီပေါ"
+
+msgid "NR"
+msgstr ""
+
+msgid "NU"
+msgstr ""
+
+msgid "NZ"
+msgstr "နယူးဇီလန်"
+
+msgid "OM"
+msgstr ""
+
+msgid "PA"
+msgstr ""
+
+msgid "PE"
+msgstr "ပီရူး"
+
+msgid "PF"
+msgstr ""
+
+msgid "PG"
+msgstr ""
+
+msgid "PH"
+msgstr "ဖိလစ်ပိုင်"
+
+msgid "PK"
+msgstr "ပါကစ္စတန်"
+
+msgid "PL"
+msgstr "ပိုလန်"
+
+msgid "PM"
+msgstr ""
+
+msgid "PN"
+msgstr ""
+
+msgid "PR"
+msgstr ""
+
+msgid "PS"
+msgstr ""
+
+msgid "PT"
+msgstr ""
+
+msgid "PW"
+msgstr ""
+
+msgid "PY"
+msgstr ""
+
+msgid "QA"
+msgstr ""
+
+msgid "RE"
+msgstr ""
+
+msgid "RO"
+msgstr ""
+
+msgid "RS"
+msgstr ""
+
+msgid "RU"
+msgstr "ရရှား"
+
+msgid "RW"
+msgstr ""
+
+msgid "SA"
+msgstr ""
+
+msgid "SB"
+msgstr ""
+
+msgid "SC"
+msgstr ""
+
+msgid "SD"
+msgstr "ဆူဒန်"
+
+msgid "SE"
+msgstr "ဆွီဒင်"
+
+msgid "SG"
+msgstr ""
+
+msgid "SH"
+msgstr ""
+
+msgid "SI"
+msgstr ""
+
+msgid "SJ"
+msgstr ""
+
+msgid "SK"
+msgstr ""
+
+msgid "SL"
+msgstr ""
+
+msgid "SM"
+msgstr ""
+
+msgid "SN"
+msgstr ""
+
+msgid "SO"
+msgstr ""
+
+msgid "SR"
+msgstr ""
+
+msgid "SS"
+msgstr ""
+
+msgid "ST"
+msgstr ""
+
+msgid "SV"
+msgstr ""
+
+msgid "SX"
+msgstr ""
+
+msgid "SY"
+msgstr ""
+
+msgid "SZ"
+msgstr ""
+
+msgid "TC"
+msgstr ""
+
+msgid "TD"
+msgstr ""
+
+msgid "TF"
+msgstr ""
+
+msgid "TG"
+msgstr ""
+
+msgid "TH"
+msgstr "ထိုင်း"
+
+msgid "TJ"
+msgstr ""
+
+msgid "TK"
+msgstr ""
+
+msgid "TL"
+msgstr ""
+
+msgid "TM"
+msgstr ""
+
+msgid "TN"
+msgstr "တူနီးရှား"
+
+msgid "TO"
+msgstr ""
+
+msgid "TR"
+msgstr "တူရကီ"
+
+msgid "TT"
+msgstr ""
+
+msgid "TV"
+msgstr ""
+
+msgid "TW"
+msgstr "ထိုင်ဝမ်"
+
+msgid "TZ"
+msgstr ""
+
+msgid "UA"
+msgstr "ယူကရိန်း"
+
+msgid "UG"
+msgstr ""
+
+msgid "UM"
+msgstr ""
+
+msgid "US"
+msgstr "အမေရိက"
+
+msgid "UY"
+msgstr "ဥရုဂွေး"
+
+msgid "UZ"
+msgstr "ဥဇဘက်ကစ္စတန်"
+
+msgid "VA"
+msgstr ""
+
+msgid "VC"
+msgstr ""
+
+msgid "VE"
+msgstr ""
+
+msgid "VG"
+msgstr ""
+
+msgid "VI"
+msgstr ""
+
+msgid "VN"
+msgstr "ဗီယက်နမ်"
+
+msgid "VU"
+msgstr ""
+
+msgid "WF"
+msgstr ""
+
+msgid "WS"
+msgstr ""
+
+msgid "XK"
+msgstr ""
+
+msgid "YE"
+msgstr "ယီမင်"
+
+msgid "YT"
+msgstr ""
+
+msgid "ZA"
+msgstr "တောင်အာဖရိက"
+
+msgid "ZM"
+msgstr ""
+
+msgid "ZW"
+msgstr "ဇင်ဘာဘွေ"

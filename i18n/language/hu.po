@@ -1,0 +1,582 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# 
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Csaba Balazs <support@webstergeek.eu>, 2022
+# Patrik Szakos <szakos0208@gmail.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: aimeos-core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-09 09:14+0200\n"
+"PO-Revision-Date: 2015-07-09 20:35+0000\n"
+"Last-Translator: Csaba Balazs <support@webstergeek.eu>, 2022\n"
+"Language-Team: Hungarian (http://www.transifex.com/aimeos/aimeos-core/language/hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "aa"
+msgstr "Afar"
+
+msgid "ab"
+msgstr "Abház"
+
+msgid "ae"
+msgstr "Avesztai"
+
+msgid "af"
+msgstr "Afrikaans"
+
+msgid "ak"
+msgstr "Akan"
+
+msgid "am"
+msgstr "Amhara"
+
+msgid "an"
+msgstr "Aragóniai"
+
+msgid "ar"
+msgstr "Arab"
+
+msgid "as"
+msgstr "Asszámi"
+
+msgid "av"
+msgstr "Avar"
+
+msgid "ay"
+msgstr "Aymara"
+
+msgid "az"
+msgstr "Azerbajdzsáni"
+
+msgid "ba"
+msgstr "Baskír"
+
+msgid "be"
+msgstr "Fehérorosz"
+
+msgid "bg"
+msgstr "Bulgár"
+
+msgid "bh"
+msgstr "Bihár"
+
+msgid "bi"
+msgstr "Biszlama"
+
+msgid "bm"
+msgstr "Bambara"
+
+msgid "bn"
+msgstr "Bengáli"
+
+msgid "bo"
+msgstr "Tibeti"
+
+msgid "br"
+msgstr "Breton"
+
+msgid "bs"
+msgstr "Boszniai"
+
+msgid "ca"
+msgstr "Katalán"
+
+msgid "ce"
+msgstr "Csecsen"
+
+msgid "ch"
+msgstr "Ausztronéz"
+
+msgid "co"
+msgstr "Korzikai"
+
+msgid "cr"
+msgstr "Inuktitut"
+
+msgid "cs"
+msgstr "Cseh"
+
+msgid "cu"
+msgstr "Óegyházi szláv"
+
+msgid "cv"
+msgstr "Csuvas"
+
+msgid "cy"
+msgstr "Walesi"
+
+msgid "da"
+msgstr "Dán"
+
+msgid "de"
+msgstr "Német"
+
+msgid "dv"
+msgstr "Maldív"
+
+msgid "dz"
+msgstr "Dzongkha"
+
+msgid "ee"
+msgstr "Ewe"
+
+msgid "el"
+msgstr "Görög"
+
+msgid "en"
+msgstr "Angol"
+
+msgid "eo"
+msgstr "Eszperente"
+
+msgid "es"
+msgstr "Spanyol"
+
+msgid "et"
+msgstr "Észt"
+
+msgid "eu"
+msgstr "Baszk"
+
+msgid "fa"
+msgstr "Perzsiai"
+
+msgid "ff"
+msgstr "Fula"
+
+msgid "fi"
+msgstr "Finn"
+
+msgid "fj"
+msgstr "Fidzsi"
+
+msgid "fo"
+msgstr "Feröeri"
+
+msgid "fr"
+msgstr "Francia"
+
+msgid "fy"
+msgstr "Fríz"
+
+msgid "ga"
+msgstr "Ír"
+
+msgid "gd"
+msgstr "Skót-gall"
+
+msgid "gl"
+msgstr "Galíciai"
+
+msgid "gn"
+msgstr "Guarani"
+
+msgid "gu"
+msgstr "Gudzsaráti"
+
+msgid "gv"
+msgstr "Manx"
+
+msgid "ha"
+msgstr "Hauszák"
+
+msgid "he"
+msgstr "héber"
+
+msgid "hi"
+msgstr "Hindi"
+
+msgid "ho"
+msgstr "Hiri motu"
+
+msgid "hr"
+msgstr "Horvát"
+
+msgid "ht"
+msgstr "Haiti"
+
+msgid "hu"
+msgstr "Magyar"
+
+msgid "hy"
+msgstr "Arméniai"
+
+msgid "hz"
+msgstr "Herero"
+
+msgid "ia"
+msgstr "Interlingva"
+
+msgid "id"
+msgstr "Indonéz"
+
+msgid "ie"
+msgstr "Interlingva"
+
+msgid "ig"
+msgstr "Igbók"
+
+msgid "ii"
+msgstr "Yi"
+
+msgid "ik"
+msgstr "Inupiatok"
+
+msgid "io"
+msgstr "Ido"
+
+msgid "is"
+msgstr "Izlandi"
+
+msgid "it"
+msgstr "Olasz"
+
+msgid "iu"
+msgstr "Inuktitut "
+
+msgid "ja"
+msgstr "Japán"
+
+msgid "jv"
+msgstr "Javanese"
+
+msgid "ka"
+msgstr "Grúz"
+
+msgid "kg"
+msgstr "Kongói"
+
+msgid "ki"
+msgstr "Kikujuk"
+
+msgid "kj"
+msgstr "Kuanyama"
+
+msgid "kk"
+msgstr "Kazah"
+
+msgid "kl"
+msgstr "Grönlandi"
+
+msgid "km"
+msgstr "Khmer"
+
+msgid "kn"
+msgstr "Kannada"
+
+msgid "ko"
+msgstr "Koreai"
+
+msgid "kr"
+msgstr "Kanuri"
+
+msgid "ks"
+msgstr "Kasmíri"
+
+msgid "ku"
+msgstr "Kurd"
+
+msgid "kv"
+msgstr "Komi"
+
+msgid "kw"
+msgstr "Korni"
+
+msgid "ky"
+msgstr "Kirgiz"
+
+msgid "la"
+msgstr "Latin"
+
+msgid "lb"
+msgstr "Luxemburgi"
+
+msgid "lg"
+msgstr "Luganda"
+
+msgid "li"
+msgstr "Limburgi"
+
+msgid "ln"
+msgstr "Lingala"
+
+msgid "lo"
+msgstr "Lao"
+
+msgid "lt"
+msgstr "Litván"
+
+msgid "lu"
+msgstr "Luba"
+
+msgid "lv"
+msgstr "Lett"
+
+msgid "mg"
+msgstr "Madagaszkári"
+
+msgid "mh"
+msgstr "Marsall"
+
+msgid "mi"
+msgstr "Maori"
+
+msgid "mk"
+msgstr "Macedón"
+
+msgid "ml"
+msgstr "Maláj"
+
+msgid "mn"
+msgstr "Mongol"
+
+msgid "mo"
+msgstr "Moldáv"
+
+msgid "mr"
+msgstr "Maráthi"
+
+msgid "ms"
+msgstr "Malay"
+
+msgid "mt"
+msgstr "Máltai"
+
+msgid "my"
+msgstr "Burmai"
+
+msgid "na"
+msgstr "Nauru"
+
+msgid "nb"
+msgstr "Norvég"
+
+msgid "nd"
+msgstr "Északi ndebele"
+
+msgid "ne"
+msgstr "Nepáli"
+
+msgid "ng"
+msgstr "Ndonga"
+
+msgid "nl"
+msgstr "Holland"
+
+msgid "nn"
+msgstr "Norvég"
+
+msgid "no"
+msgstr "Norvég"
+
+msgid "nr"
+msgstr "Dél Ndebele"
+
+msgid "nv"
+msgstr "Navahók"
+
+msgid "ny"
+msgstr "Bantu"
+
+msgid "oc"
+msgstr "Okcitán"
+
+msgid "oj"
+msgstr "Ojibwe"
+
+msgid "om"
+msgstr "Oromók"
+
+msgid "or"
+msgstr "Orija"
+
+msgid "os"
+msgstr "Oszét"
+
+msgid "pa"
+msgstr "Pandzsábi"
+
+msgid "pi"
+msgstr "Páli"
+
+msgid "pl"
+msgstr "Lengyel"
+
+msgid "ps"
+msgstr "Pastu"
+
+msgid "pt"
+msgstr "Portugál"
+
+msgid "pt_BR"
+msgstr "Portugál (Brazil)"
+
+msgid "qu"
+msgstr "Kecsua"
+
+msgid "rm"
+msgstr "Rétoromán"
+
+msgid "rn"
+msgstr "Kirundi"
+
+msgid "ro"
+msgstr "román"
+
+msgid "ru"
+msgstr "Orosz"
+
+msgid "rw"
+msgstr "Ruandai"
+
+msgid "sa"
+msgstr "Szanszkrit"
+
+msgid "sc"
+msgstr "Szardíniai"
+
+msgid "sd"
+msgstr "Szindhi"
+
+msgid "se"
+msgstr "Északi Sami"
+
+msgid "sg"
+msgstr "Sango"
+
+msgid "si"
+msgstr "Szingaléz"
+
+msgid "sk"
+msgstr "szlovák"
+
+msgid "sl"
+msgstr "Szlovén"
+
+msgid "sm"
+msgstr "Szamoai"
+
+msgid "sn"
+msgstr "Sona"
+
+msgid "so"
+msgstr "Szomáliai"
+
+msgid "sq"
+msgstr "Albán"
+
+msgid "sr"
+msgstr "szerb"
+
+msgid "ss"
+msgstr "Szvázi"
+
+msgid "st"
+msgstr "Szothó"
+
+msgid "su"
+msgstr "Szundanéz"
+
+msgid "sv"
+msgstr "Svéd"
+
+msgid "sw"
+msgstr "Szuahéli"
+
+msgid "ta"
+msgstr "Tamil"
+
+msgid "te"
+msgstr "Telugu"
+
+msgid "tg"
+msgstr "Tajuk"
+
+msgid "th"
+msgstr "Táj"
+
+msgid "ti"
+msgstr "Tigrinya"
+
+msgid "tk"
+msgstr "Türkmén"
+
+msgid "tl"
+msgstr "Tagalog"
+
+msgid "tn"
+msgstr "Bantu"
+
+msgid "to"
+msgstr "Tongai"
+
+msgid "tr"
+msgstr "Török"
+
+msgid "ts"
+msgstr "Bantu"
+
+msgid "tt"
+msgstr "Tatár"
+
+msgid "tw"
+msgstr "Ghánai"
+
+msgid "ty"
+msgstr "Tahiti"
+
+msgid "ug"
+msgstr "Ujgur"
+
+msgid "uk"
+msgstr "Ukrán"
+
+msgid "ur"
+msgstr "Urdu"
+
+msgid "uz"
+msgstr "Üzbég"
+
+msgid "ve"
+msgstr "Venda"
+
+msgid "vi"
+msgstr "Vietnámi"
+
+msgid "vo"
+msgstr "Volapük"
+
+msgid "wa"
+msgstr "Vallóniai"
+
+msgid "wo"
+msgstr "Volof"
+
+msgid "xh"
+msgstr "Xhosza"
+
+msgid "yi"
+msgstr "Jiddis"
+
+msgid "yo"
+msgstr "Jorubák"
+
+msgid "za"
+msgstr "Zhuang"
+
+msgid "zh"
+msgstr "Kínai"
+
+msgid "zu"
+msgstr "Zulu"
